@@ -5,7 +5,7 @@
 
 Hello! This is my solution to Calculator app. It is a simple calculator app with basic math functions and theme toggle with a customizable widget. You can use the mouse to enter data into the calculator. 
 
-https://github.com/KadirTarti/calculator
+https://calculator-tar.netlify.app/
 
 ## Description
 
