@@ -7,7 +7,7 @@ Hello! This is my solution to Calculator app. It is a simple calculator app with
 
 https://calculator-tar.netlify.app/
 
-## Description
+## Description 🟢
 
 Project aims to create a calculator app.
 
@@ -15,7 +15,7 @@ Project aims to create a calculator app.
 
 - Your company has recently started on a project that aims to create a calculator. So you and your colleagues have started to work on the project.
 
-## Project Skeleton
+## Project Skeleton 👷‍♂️
 
 ```
 02-calculator(folder)
@@ -27,15 +27,21 @@ Project aims to create a calculator app.
 |----ios.gif
 ```
 
-## Outcome
+## Outcome 🎥
 
  ![Calculator](https://github.com/KadirTarti/KadirTarti/assets/150926891/7229e5eb-95e5-45df-b8d7-4136883c5471)
 
-## Objective
+## Objective 🔍
 
-Create a Calculator that is functionally similar to the expected output
+Create a Calculator using JS
 
-### At the end of the project, will be able to;
+### User Stories:
+
+1. As a user, I want a simple calculator app with basic math functions so that I can perform calculations conveniently.
+2. As a user, I want the ability to toggle between different themes and customize the widget for a personalized experience while using the calculator.
+
+
+### This project helped me develop the following skills:
 
 - improve coding skills within HTML & CSS & JS
 
