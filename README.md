@@ -42,4 +42,4 @@ Create a Calculator that is functionally similar to the expected output
 - use git commands (push, pull, commit, add etc.) and Github as Version Control System.
 
 
-<p align="center"> ⌛ Happy Coding  ✍ </p>
+<p align="center"> 💻 *Always improve yourself* 💻 </p>
